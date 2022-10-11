@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JustMaths.iml" filepath="$PROJECT_DIR$/.idea/modules/JustMaths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JustMaths.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JustMaths.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JustMaths.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JustMaths.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JustMaths.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JustMaths.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JustMaths.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JustMaths.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
